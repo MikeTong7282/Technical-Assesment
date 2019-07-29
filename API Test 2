@@ -1,6 +1,5 @@
 POST - https://demo.docusign.net/restapi/v2/accounts/8642714/envelopes
 
-
 {
   "enforceSignerVisibility": true,
   "recipients": {
